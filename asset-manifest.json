@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/react_dsc/static/css/main.791bb23f.css",
-    "main.js": "/react_dsc/static/js/main.122ed3c3.js",
+    "main.css": "/react_dsc/static/css/main.0382ee0d.css",
+    "main.js": "/react_dsc/static/js/main.62fc9669.js",
     "static/js/453.d3664a67.chunk.js": "/react_dsc/static/js/453.d3664a67.chunk.js",
     "static/media/AboutBanner.jpg": "/react_dsc/static/media/AboutBanner.308aa283623acb725f01.308aa283623acb725f01.jpg",
+    "static/media/blob-1-opacity-33.gif": "/react_dsc/static/media/blob-1-opacity-33.8c0ac8d52fc89505ecf1.gif",
     "static/media/HeroBanner.png": "/react_dsc/static/media/HeroBanner.443a02c8bc0f743fc26d.443a02c8bc0f743fc26d.png",
     "index.html": "/react_dsc/index.html",
-    "main.791bb23f.css.map": "/react_dsc/static/css/main.791bb23f.css.map",
-    "main.122ed3c3.js.map": "/react_dsc/static/js/main.122ed3c3.js.map",
+    "main.0382ee0d.css.map": "/react_dsc/static/css/main.0382ee0d.css.map",
+    "main.62fc9669.js.map": "/react_dsc/static/js/main.62fc9669.js.map",
     "453.d3664a67.chunk.js.map": "/react_dsc/static/js/453.d3664a67.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.791bb23f.css",
-    "static/js/main.122ed3c3.js"
+    "static/css/main.0382ee0d.css",
+    "static/js/main.62fc9669.js"
   ]
 }
