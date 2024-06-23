@@ -1,3 +1,8 @@
+*{
+    cursor: none;
+    scroll-behavior: smooth;
+}
+
 .App{
     text-align: center;
     padding: 0;
@@ -6,4 +11,18 @@
     background-color: black;
     display: flex;
     flex-direction: column;
+    
 }
+
+.cursor{
+    position:fixed;
+    top: 0;
+    left: 0;
+    width: 32px;
+    height: 32px;
+    box-shadow: 0 0 20px rgba(87, 98, 130, 0.88);
+
+    border-radius: 50%;
+  
+}
+
