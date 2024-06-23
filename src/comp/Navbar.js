@@ -1,20 +1,18 @@
 import React from 'react'
 import '../style/Navbar.css'
+import { HashLink as Link } from 'react-router-hash-link'
 
 function Navbar() {
   return (
-    <div>
-       <div className="Navbar-items">
-            <div className="Navbaritemstotal">
-                <ul>
-                    <li><a href="#Home"></a>HOME</li>
-                    <li><a href="#Middle"></a>ABOUT</li>
-                    <li><a href="#Ending"></a>CONTACT</li>
-                    <li><a href="#Home"></a>EVENT</li>
-                </ul>
-            </div>
-        </div>
-      
+    <div className="Navbar-items">
+      <div className="Navbaritemstotal">
+        <ul>
+          <li><Link to="#Hero" className="Link">HOME</Link></li>
+          <li><Link to="#Middle" className="Link">ABOUT</Link></li>
+          <li><Link to="#Ending" className="Link">CONTACT</Link></li>
+          <li><Link to="#Home" className="Link">EVENT</Link></li>
+        </ul>
+      </div>
     </div>
   )
 }
