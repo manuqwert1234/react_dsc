@@ -1,74 +1,27 @@
-# Getting Started with Create React App
+Data Science Club Website Mock-up
+This code base is a mock-up for a data science club website, built using React.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Key Components
+Hero
+This component displays a full-screen canvas with a matrix-style animation, along with a hero banner image. The canvas is created using the HTML5 canvas element and JavaScript, and the animation is updated at a regular interval.
 
-## Available Scripts
+Navbar
+The navigation bar allows users to quickly navigate to different sections of the website, including the Home, About, Contact, and Event sections.
 
-In the project directory, you can run:
+Middle
+This component showcases information about the club, including a brief description and an image that scales based on the user's scroll position.
 
-### `npm start`
+Teampart
+This component displays the club's team members, with each member's information, including their name, a brief description, and links to their social media profiles (LinkedIn, YouTube, and email).
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Ending
+The final section of the website outlines the club's mission and objectives, providing a clear understanding of the club's purpose and goals.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Responsive Design and React
+The website is designed to be responsive, ensuring a seamless user experience across different devices and screen sizes. The use of React allows for efficient component-based development, making the codebase more modular and maintainable.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Conclusion
+Overall, this code base provides a solid foundation for a data science club website, showcasing the club's purpose, team, and mission in an engaging and visually appealing manner.
 
 
-https://manuqwert1234.github.io/react_dsc/
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# react_dsc
+WEBSITE :: https://manuqwert1234.github.io/react_dsc/
