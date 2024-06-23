@@ -22,24 +22,27 @@ function Middle() {
   }, []);
 
   return (
-    <div>
-      <div className="Middle">
-        <div className="middle-fist">
-          <h1>What is this club about?</h1>
-          <p>
-            Our club is an initiative aimed at promoting data literacy, fostering
-            innovation, and creating a platform for data-driven discussions and
-            collaborations. Established in 2020, we are a dynamic community of
-            data enthusiasts passionate about exploring the fascinating world of
-            data science. Whether you're a data professional or just beginning
-            your journey, our club offers a vibrant community and exciting
-            opportunities to fuel your passion for data.
-          </p>
-        </div>
-        <div className="middle-last">
-          <img className="aboutbanner" src={aboutbanner} alt="" />
-        </div>
-      </div>
+    <div id ="Middle">
+   
+       
+        <div className="Middle">
+            <div className="middle-fist">
+              <h1>What is this club about?</h1>
+              <p>
+                Our club is an initiative aimed at promoting data literacy, fostering
+                innovation, and creating a platform for data-driven discussions and
+                collaborations. Established in 2020, we are a dynamic community of
+                data enthusiasts passionate about exploring the fascinating world of
+                data science. Whether you're a data professional or just beginning
+                your journey, our club offers a vibrant community and exciting
+                opportunities to fuel your passion for data.
+              </p>
+            </div>
+            <div className="middle-last">
+              <img className="aboutbanner" src={aboutbanner} alt="" />
+            </div>
+          </div>
+
     </div>
   );
 }
