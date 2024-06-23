@@ -10,7 +10,7 @@ function Navbar() {
                     <li><a href="#Home"></a>HOME</li>
                     <li><a href="#Middle"></a>ABOUT</li>
                     <li><a href="#Ending"></a>CONTACT</li>
-                    <li><a href="#Home"></a>Event</li>
+                    <li><a href="#Home"></a>EVENT</li>
                 </ul>
             </div>
         </div>
