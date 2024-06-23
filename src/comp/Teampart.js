@@ -2,21 +2,22 @@ import React from 'react'
 import '../style/Teampart.css'
 
 import { FaLinkedin, FaYoutube, FaEnvelope } from 'react-icons/fa';
+import image from '../comp/download.jpg'
 
 
 
 function Teampart() {
   const email = 'example@example.com';
   return (
-    <div >
+    <div id="Teampart" >
         <h1 className='heading'> Our Team</h1>
-        
+
         <div className='box'>
 
             
             
             <div className='boxitems'>
-                        <img src="" alt="" />
+                        <img className="image" src={image} alt="" />
                             <h1>Name</h1>
                             <h3>lorem10 dsa dsjad,ajdas,jdasjd.as
                                 ,.ma,xsakmdkasmdk
@@ -36,7 +37,7 @@ function Teampart() {
             </div>
 
             <div className='boxitems'>
-                        <img src="" alt="" />
+                        <img className="image" src={image} alt="" />
                             <h1>Name</h1>
                             <h3>lorem10 dsa dsjad,ajdas,jdasjd.as
                                 ,.ma,xsakmdkasmdk
@@ -55,7 +56,7 @@ function Teampart() {
             </div>
 
             <div className='boxitems'>
-                    <img src="" alt="" />
+                    <img className="image" src={image} alt="" />
                         <h1>Name</h1>
                         <h3>lorem10 dsa dsjad,ajdas,jdasjd.as
                             ,.ma,xsakmdkasmdk
@@ -74,7 +75,7 @@ function Teampart() {
             </div>
 
             <div className='boxitems'>
-                        <img src="" alt="" />
+                        <img  className="image" src={image} alt="" />
                             <h1>Name</h1>
                             <h3>lorem10 dsa dsjad,ajdas,jdasjd.as
                                 ,.ma,xsakmdkasmdk
@@ -93,7 +94,7 @@ function Teampart() {
             </div>
 
             <div className='boxitems'>
-                        <img src="" alt="" />
+                        <img className="image" src={image} alt="" />
                             <h1>Name</h1>
                             <h3>lorem10 dsa dsjad,ajdas,jdasjd.as
                                 ,.ma,xsakmdkasmdk;asndfa;ksmd</h3>
@@ -111,7 +112,7 @@ function Teampart() {
             </div>
 
             <div className='boxitems'>
-                        <img src="" alt="" />
+                        <img className="image" src={image} alt="" />
                             <h1>Name</h1>
                             <h3>lorem10 dsa dsjad,ajdas,jdasjd.as
                                 ,.ma,xsakmdkasmdk
