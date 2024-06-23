@@ -16,9 +16,10 @@
     color: #c3c3c3;
     text-align: center;
   }
-  
+
   
   .boxitems {
+    margin-top: 1rem;
     margin: auto;
     border: 2px;
     padding: 50px;
@@ -72,6 +73,15 @@
   .social-icons a:last-child:hover {
     color: #e6e6e6; 
   }
+
+  .image {
+    border-radius: 5px;
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+  }
+  
   
   @media (max-width: 768px) {
     .box {
@@ -94,7 +104,7 @@
     }
   
     .heading {
-      font-size: 1.5rem;
+      font-size: 3rem;
       padding: 30px;
     }
   
