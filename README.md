@@ -1,27 +1,29 @@
-Data Science Club Website Mock-up
-This code base is a mock-up for a data science club website, built using React.
+# Data Science Club Website Mock-up
 
-Key Components
-Hero
-This component displays a full-screen canvas with a matrix-style animation, along with a hero banner image. The canvas is created using the HTML5 canvas element and JavaScript, and the animation is updated at a regular interval.
+## Key Components
 
-Navbar
-The navigation bar allows users to quickly navigate to different sections of the website, including the Home, About, Contact, and Event sections.
+### Hero
+- Displays a full-screen canvas with a matrix-style animation and a hero banner image.
+- Created using HTML5 canvas element and JavaScript.
+- Animation updates regularly.
 
-Middle
-This component showcases information about the club, including a brief description and an image that scales based on the user's scroll position.
+### Navbar
+- Navigation bar for quick access to Home, About, Contact, and Event sections.
 
-Teampart
-This component displays the club's team members, with each member's information, including their name, a brief description, and links to their social media profiles (LinkedIn, YouTube, and email).
+### Middle
+- Showcases club information with a brief description and a scalable image based on scroll position.
 
-Ending
-The final section of the website outlines the club's mission and objectives, providing a clear understanding of the club's purpose and goals.
+### Teampart
+- Displays team members' information including name, brief description, and links to LinkedIn, YouTube, and email.
 
-Responsive Design and React
-The website is designed to be responsive, ensuring a seamless user experience across different devices and screen sizes. The use of React allows for efficient component-based development, making the codebase more modular and maintainable.
+### Ending
+- Concludes with the club's mission and objectives.
 
-Conclusion
-Overall, this code base provides a solid foundation for a data science club website, showcasing the club's purpose, team, and mission in an engaging and visually appealing manner.
+## Responsive Design and React
+- Designed to be responsive for various devices and screen sizes.
+- Developed using React for modular and maintainable components.
 
+## Conclusion
+This mock-up provides a strong foundation for a data science club website, effectively presenting the club's purpose, team, and mission in an engaging manner.
 
-WEBSITE :: https://manuqwert1234.github.io/react_dsc/
+[View the Website](https://manuqwert1234.github.io/react_dsc/)
